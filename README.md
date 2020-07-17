@@ -1,7 +1,7 @@
 <h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;&nbsp;
 <div align="left" width="50%">
-<img align="center" src="https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4" style="max-width:100%;border-radius:20%;">
+<img align="center" src="https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4" style="max-width:%0%;border-radius:20%;">
 &nbsp;&nbsp;
   </div>
 <div align="right">
@@ -18,7 +18,7 @@
   </p>
   </div>
 &nbsp;&nbsp;
-<p align="center">
+<p align="right">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="auto"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="auto"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="auto"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="auto"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="auto"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="auto"/>
 <img src="https://flutter.dev/images/catalog-widget-placeholder.png" alt="Flutter" width="40" height="auto"/>
@@ -28,7 +28,7 @@
  &nbsp;&nbsp;
  &nbsp;&nbsp;
 
-<p align="center">
+<p align="left">
 <a href="https://wa.me/7530847637?text=Hi!%20 Himanshu">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
