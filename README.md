@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h1 align='center'>
+  Hi there 👋 I'm Himanshu Sharma 👨‍💻
+</h1>
 
 <!--
 **himanshu64/himanshu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
