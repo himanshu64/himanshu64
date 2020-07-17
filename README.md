@@ -2,7 +2,7 @@
   .markdown-body img{
   max-width:50% !important;
   }
-  <style>
+  </style>
 
 <h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;&nbsp;
