@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
+<h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;&nbsp;
-<div align="center">
+<div align="left">
 <img align="center" src="https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4" style="max-width:100%;border-radius:20%;">
 &nbsp;&nbsp;
   </div>
-<h3 align="center">A passionate Flutter Developer from New Delhi,India</h3>
+<h3 align="right">A passionate Flutter Developer from New Delhi,India</h3>
 &nbsp;&nbsp;
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/himanshu64" alt="https://github.com/himanshu64" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=https://github.com/himanshu64" alt="https://github.com/himanshu64" /> </p>
 
-<p align="center">
+<p align="right">
   - 💬 Ask me about <b>Flutter,Firebase, React, NodeJs</b>
   </p>
 
-<p align="center">
+<p align="right">
   - 📫 How to reach me <b>himanshu648594@gmail.com</b>
   </p>
 &nbsp;&nbsp;
