@@ -9,11 +9,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/himanshu64" alt="https://github.com/himanshu64" /> </p>
 
 <p align="center">
-  - 💬 Ask me about **Flutter,Firebase, React, NodeJs**
+  - 💬 Ask me about <b>Flutter,Firebase, React, NodeJs</b>
   </p>
 
 <p align="center">
-  - 📫 How to reach me **himanshu648594@gmail.com**
+  - 📫 How to reach me <b>himanshu648594@gmail.com</b>
   </p>
 &nbsp;&nbsp;
 <p align="center">
