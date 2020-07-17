@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;&nbsp;
-
-![alt text](https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4)
+<div align=”center”>
+![github.com/himanshu64](https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4)
 &nbsp;&nbsp;
+  </div>
 <h3 align="center">A passionate Flutter Developer from New Delhi,India</h3>
 &nbsp;&nbsp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/himanshu64" alt="https://github.com/himanshu64" /> </p>
