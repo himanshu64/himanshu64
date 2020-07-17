@@ -19,10 +19,15 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/himanshu64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/himanshu64" height="20" width="20" /></a>
-<a href="https://twitter.com/himansh68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/himansh68" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/himanshu-sharma-0666a5129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/himanshu-sharma-0666a5129" height="20" width="20" /></a>
-<a href="https://www.instagram.com/himanshu.sharma.64/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/himanshu.sharma.64/" height="20" width="20" /></a>
+<a href="https://wa.me/7530847637?text=Hi!%20 Himanshu">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sharma-0666a5129">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/himanshu.sharma.64/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <!--
