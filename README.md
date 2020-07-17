@@ -1,13 +1,10 @@
 
-  #img{
-  max-width:50% !important;
-  }
-
+  
 
 <h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;&nbsp;
 <div align="left" width="50%">
-<img align="center" id ="#img" src="https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4" style="max-width:%0%;border-radius:20%;">
+<img align="center" id ="#img" src="https://avatars0.githubusercontent.com/u/13599427?s=460&u=461cffbd5294b27435254b73b8af09268a0a230b&v=4" style="max-width:50% !important;border-radius:20%;">
 &nbsp;&nbsp;
   </div>
 <div align="right">
