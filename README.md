@@ -3,6 +3,23 @@
   Hi there 👋 I'm Himanshu Sharma 👨‍💻
 </h1>
 
+<p align='center'>
+  A Flutter Developer from New Delhi, India.
+</p>
+<p align='center'>
+  
+  <a href="https://wa.me/7530847637?text=Hi!%20 Himanshu">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sharma-0666a5129">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/himanshu.sharma.64/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 <!--
 **himanshu64/himanshu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
