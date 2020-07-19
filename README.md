@@ -6,7 +6,7 @@
 <div align="right">
   <h3 >A passionate Flutter Developer from New Delhi,India</h3>
 &nbsp;&nbsp;
-<p > <img src="https://komarev.com/ghpvc/?username=https://github.com/himanshu64" alt="https://github.com/himanshu64" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=himanshu64" alt="https://github.com/himanshu64" /> </p>
 
 <p >
   - 💬 Ask me about <b>Flutter,Firebase, React, NodeJs</b>
