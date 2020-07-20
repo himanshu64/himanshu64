@@ -2,11 +2,10 @@
   
 
 <h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
-&nbsp;&nbsp;
+&nbsp;
 <div align="right">
   <h3 >A passionate Flutter Developer from New Delhi,India</h3>
-&nbsp;&nbsp;
-</div>
+&nbsp;
 
 <p >
   - 💬 Ask me about <b>Flutter,Firebase, React, NodeJs</b>
