@@ -26,6 +26,12 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+<p align="right">
+   <details>
+<summary>📊 Github Stats</summary>
+
+![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat2911&theme=vue) ![Ashish's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=ashishrawat2911&show_icons=true&line_height=21&show_icons=true&theme=vue)
+  </p>
 
 <p align="right"> 
   Visitor count<br>
