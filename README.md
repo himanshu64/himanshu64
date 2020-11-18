@@ -14,11 +14,15 @@
 <p >
   - 📫 How to reach me <b>himanshu648594@gmail.com</b>
   </p>
+  <p >
   - 🌱  I’m currently learning Backend development
-
+</p>
+ <p >
 - 👯  I’m looking to collaborate on open-source projects.
-
+</p>
+ <p >
 - 💫  I am open to work on new ideas.
+  </p>
   </div>
 &nbsp;&nbsp;
 
