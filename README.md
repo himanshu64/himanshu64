@@ -1,9 +1,9 @@
 
   
 
-<h1 align="right">Hi 👋, I'm Himanshu Sharma</h1>
+<h1 >Hi 👋, I'm Himanshu Sharma</h1>
 &nbsp;
-<div align="right">
+<div >
   <h3 >A passionate Flutter Developer from New Delhi,India</h3>
 &nbsp;
 
@@ -17,7 +17,7 @@
   </div>
 &nbsp;&nbsp;
 
-<p align="right">
+<p >
 
   <a href="https://www.linkedin.com/in/himanshu-sharma-0666a5129">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,14 +26,14 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-<p align="right">
+<p >
    <details>
 <summary>📊 Github Stats</summary>
 
 ![Himanshu most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu64&theme=vue) ![Himanshu github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=himanshu64&show_icons=true&line_height=21&show_icons=true&theme=vue)
   </p>
 
-<p align="right"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/himanshu64/count.svg" />
 </p>
